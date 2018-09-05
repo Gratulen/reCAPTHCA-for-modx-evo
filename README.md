@@ -1,4 +1,4 @@
-# reCAPTHCA-for-modx-evo
+# reCAPTHCA for modx evo
 reCAPTHCA for modx evo eForm
 
 1) https://www.google.com/recaptcha/admin#list - получить публичный и секретный ключ для проекта
